@@ -48,3 +48,6 @@ h2 {
     flex: 1;
     cursor: pointer;
 }
+.plates input {
+    display: none;
+}
