@@ -44,3 +44,7 @@ h2 {
     font-weight: 100;
     display: flex;
 }
+.plates label {
+    flex: 1;
+    cursor: pointer;
+}
