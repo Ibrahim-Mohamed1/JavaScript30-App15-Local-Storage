@@ -61,3 +61,6 @@ h2 {
 .plates input:checked + label:before {
     content: '🌮';
 }
+.add-items {
+    margin-top: 20px;
+}
