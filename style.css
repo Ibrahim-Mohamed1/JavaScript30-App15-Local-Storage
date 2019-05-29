@@ -51,3 +51,7 @@ h2 {
 .plates input {
     display: none;
 }
+.plates input + label:before {
+    content: '⬜️';
+    margin-right: 10px;
+}
