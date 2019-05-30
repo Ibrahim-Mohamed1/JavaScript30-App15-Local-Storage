@@ -87,5 +87,12 @@ a{
 @media (pointer:none), (pointer:coarse) {
     .span{
         font-size: 50px;
+        color: white;
+    }
+    a{
+        text-decoration-color: white;
+    }
+    .wrapper{
+        zoom: 2.3;
     }
 }
